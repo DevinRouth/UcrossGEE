@@ -1,7 +1,6 @@
 # UcrossGEE
 
-# The scripts contained in this inventory are archives of previous scripts for Google Earth Engine by the Ucross High Plains
-# Stewardship Initiative (UHPSI).
+# The scripts contained in this inventory are archives of previous scripts for Google Earth Engine by the Ucross High Plains Stewardship Initiative (UHPSI).
 
 # See: http://highplainsstewardship.com/
 
